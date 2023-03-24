@@ -52,3 +52,11 @@ public:
         }
     }
 };
+/*The provided code implements the Consistent Hashing algorithm for a distributed system, which is used for efficient and consistent distribution of requests across multiple nodes in the system.
+
+The ConsistentHashing class implements the Router interface, which defines the behavior of a router in the system.
+
+The class contains four private member variables:
+
+nodePositions: a map that stores the list of positions (i.e., points on a hash ring) for each*/
+
